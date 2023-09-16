@@ -1,0 +1,79 @@
+{
+  "folders": {
+    "items": {
+      "src": {},
+      "test": {},
+      "host": {}
+    }
+  },
+  "packages": {
+    "Firat.Consumer.Domain.Shared": {
+      "path": "src/Firat.Consumer.Domain.Shared/Firat.Consumer.Domain.Shared.abppkg.json",
+      "folder": "src"
+    },
+    "Firat.Consumer.Domain": {
+      "path": "src/Firat.Consumer.Domain/Firat.Consumer.Domain.abppkg.json",
+      "folder": "src"
+    },
+    "Firat.Consumer.Application.Contracts": {
+      "path": "src/Firat.Consumer.Application.Contracts/Firat.Consumer.Application.Contracts.abppkg.json",
+      "folder": "src"
+    },
+    "Firat.Consumer.Application": {
+      "path": "src/Firat.Consumer.Application/Firat.Consumer.Application.abppkg.json",
+      "folder": "src"
+    },
+    "Firat.Consumer.EntityFrameworkCore": {
+      "path": "src/Firat.Consumer.EntityFrameworkCore/Firat.Consumer.EntityFrameworkCore.abppkg.json",
+      "folder": "src"
+    },
+    "Firat.Consumer.MongoDB": {
+      "path": "src/Firat.Consumer.MongoDB/Firat.Consumer.MongoDB.abppkg.json",
+      "folder": "src"
+    },
+    "Firat.Consumer.HttpApi": {
+      "path": "src/Firat.Consumer.HttpApi/Firat.Consumer.HttpApi.abppkg.json",
+      "folder": "src"
+    },
+    "Firat.Consumer.HttpApi.Client": {
+      "path": "src/Firat.Consumer.HttpApi.Client/Firat.Consumer.HttpApi.Client.abppkg.json",
+      "folder": "src"
+    },
+    "Firat.Consumer.TestBase": {
+      "path": "test/Firat.Consumer.TestBase/Firat.Consumer.TestBase.abppkg.json",
+      "folder": "test"
+    },
+    "Firat.Consumer.EntityFrameworkCore.Tests": {
+      "path": "test/Firat.Consumer.EntityFrameworkCore.Tests/Firat.Consumer.EntityFrameworkCore.Tests.abppkg.json",
+      "folder": "test"
+    },
+    "Firat.Consumer.MongoDB.Tests": {
+      "path": "test/Firat.Consumer.MongoDB.Tests/Firat.Consumer.MongoDB.Tests.abppkg.json",
+      "folder": "test"
+    },
+    "Firat.Consumer.Domain.Tests": {
+      "path": "test/Firat.Consumer.Domain.Tests/Firat.Consumer.Domain.Tests.abppkg.json",
+      "folder": "test"
+    },
+    "Firat.Consumer.Application.Tests": {
+      "path": "test/Firat.Consumer.Application.Tests/Firat.Consumer.Application.Tests.abppkg.json",
+      "folder": "test"
+    },
+    "Firat.Consumer.HttpApi.Host": {
+      "path": "host/Firat.Consumer.HttpApi.Host/Firat.Consumer.HttpApi.Host.abppkg.json",
+      "folder": "host"
+    },
+    "Firat.Consumer.HttpApi.Client.ConsoleTestApp": {
+      "path": "test/Firat.Consumer.HttpApi.Client.ConsoleTestApp/Firat.Consumer.HttpApi.Client.ConsoleTestApp.abppkg.json",
+      "folder": "test"
+    },
+    "Firat.Consumer.AuthServer": {
+      "path": "host/Firat.Consumer.AuthServer/Firat.Consumer.AuthServer.abppkg.json",
+      "folder": "host"
+    },
+    "Firat.Consumer.Host.Shared": {
+      "path": "host/Firat.Consumer.Host.Shared/Firat.Consumer.Host.Shared.abppkg.json",
+      "folder": "host"
+    }
+  }
+}

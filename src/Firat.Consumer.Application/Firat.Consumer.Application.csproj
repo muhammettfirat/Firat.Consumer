@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <Import Project="..\..\common.props" />
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <RootNamespace>Firat.Consumer</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="9.0.1" />
+    <PackageReference Include="RabbitMQ.Client" Version="6.5.0" />
+    <PackageReference Include="Volo.Abp.AutoMapper" Version="7.4.0-rc.3" />
+    <PackageReference Include="Volo.Abp.Ddd.Application" Version="7.4.0-rc.3" />
+    <ProjectReference Include="..\Firat.Consumer.Application.Contracts\Firat.Consumer.Application.Contracts.csproj" />
+    <ProjectReference Include="..\Firat.Consumer.Domain\Firat.Consumer.Domain.csproj" />
+  </ItemGroup>
+
+</Project>

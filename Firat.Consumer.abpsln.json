@@ -1,0 +1,7 @@
+{
+  "modules": {
+    "Firat.Consumer": {
+      "path": "Firat.Consumer.abpmdl.json"
+    }
+  }
+}

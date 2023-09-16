@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <Import Project="..\..\common.props" />
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <RootNamespace>Firat.Consumer</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Volo.Abp.AspNetCore.Mvc" Version="7.4.0-rc.3" />
+    <ProjectReference Include="..\Firat.Consumer.Application.Contracts\Firat.Consumer.Application.Contracts.csproj" />
+  </ItemGroup>
+
+</Project>
